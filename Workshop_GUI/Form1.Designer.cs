@@ -194,7 +194,6 @@
             label1.Size = new Size(148, 25);
             label1.TabIndex = 3;
             label1.Text = "Расчет доходов";
-            label1.Click += label1_Click;
             // 
             // startDate
             // 
